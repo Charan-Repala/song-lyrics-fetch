@@ -43,7 +43,7 @@ A React-based web application that allows users to search for song lyrics and vi
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/Bhaswanth67/song-lyrics-finder.git
+    git clone https://github.com/Charan-Repala/song-lyrics-fetch.git
     cd song-lyrics-finder
     ```
 
